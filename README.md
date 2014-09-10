@@ -1,10 +1,11 @@
 tipcalculator
 =============
+This is an IOS demo application for TipCalculator
 
-How many hours did it take to complete?
-- 8 Hrs
+Time spent: 8 hours spent in total
 
-Which required and optional stories have you completed?
-- TipCalculator
-- Adding Settings Page
-- Default value stored in NSUserDefaults
+Completed user stories:
+
+ Required: Creating working TipCalculator
+ Required: Adding Settings Page
+ Required: Default value stored in NSUserDefaults
